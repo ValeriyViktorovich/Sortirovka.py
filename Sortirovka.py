@@ -6,3 +6,4 @@ def find Smallest(arr) # Find smallest
             smallest = arr[i]
             smallest_index = i
     return (smallest_index) # index smallest element
+
